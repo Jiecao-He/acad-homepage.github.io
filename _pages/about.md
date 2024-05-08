@@ -17,10 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# Personal Introducion
+# About Me
+- Personal Introducion
 - Waiting......
 
-# 📝 Research Achievement 
+# 📖 Educations
+- *2012.09 - 2016.07*, Feng Chia University – Department of Finance – Bachelor
+- *2016.09 – 2018.07*, National Chengchi University – Department of Money and Banking – Master
+- *2019.09 – 2023.12*, National Chengchi University – Department of Money and Banking – Ph.D.
+
+# 📝 Publications
 - *Journal Paper*
   + ***He, J. C.***, Chang, H. H., Chen, T. F., & Lin, S. K. (2023). [Upside and downside correlated jump risk premia of currency options and expected returns.](https://jfin-swufe.springeropen.com/articles/10.1186/s40854-023-00493-3) *Financial Innovation*, 9(1), 90. JCR SSCI Q1 (IF 8.4), First Author.
   + ***He, J. C.***, Hsieh, C. C., Huang, Z. W., & Lin, S. K. (2023). [Valuation of callable range accrual linked to CMS Spread under generalized swap market model.](https://www.sciencedirect.com/science/article/abs/pii/S1057521923004726) *International Review of Financial Analysis*, 90, 102956. JCR SSCI Q1 (IF 8.2), First Author & Corresponding Author.
@@ -42,11 +48,6 @@ redirect_from:
   - 2020学年博士班论文研究发表营优秀论文奖 
 + *2023.12.19*, Academic Honor
   - AACSB Beta Gamma Sigma
-
-# 📖 Educations
-- *2012.09 - 2016.07*, Feng Chia University – Department of Finance – Bachelor
-- *2016.09 – 2018.07*, National Chengchi University – Department of Money and Banking – Master
-- *2019.09 – 2023.12*, National Chengchi University – Department of Money and Banking – Ph.D.
 
 # 💬 Lecture Courses
 - *2019.09 – 2020.01*, Financial Engineering and Innovations (Master and Ph.D.)
