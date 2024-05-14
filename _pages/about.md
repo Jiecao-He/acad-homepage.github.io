@@ -30,7 +30,7 @@ redirect_from:
 - *Journal Paper*
   + ***He, J. C.***, Chang, H. H., Chen, T. F., & Lin, S. K. (2023). [Upside and downside correlated jump risk premia of currency options and expected returns.](https://jfin-swufe.springeropen.com/articles/10.1186/s40854-023-00493-3) *Financial Innovation*, 9(1), 90. JCR SSCI Q1 (IF 8.4), First Author.
   + ***He, J. C.***, Hsieh, C. C., Huang, Z. W., & Lin, S. K. (2023). [Valuation of callable range accrual linked to CMS Spread under generalized swap market model.](https://www.sciencedirect.com/science/article/abs/pii/S1057521923004726) *International Review of Financial Analysis*, 90, 102956. JCR SSCI Q1 (IF 8.2), First Author & Corresponding Author.
-  +  What drives jumps in the Secured Overnight Financing Rate? Evidence from the arbitrage-free Nelson–Siegel model with jump diffusion. *Pacific-Basin Finance Journal*, JCR SSCI Q1 (IF 4.6), forthcoming.
+  + Fang, D. J., Yeh, Z. W., ***He, J. C.***, & Lin, S. K. (2024). [What Drives Jumps in the Secured Overnight Financing Rate? Evidence From the Arbitrage-Free Nelson–Siegel Model With Jump Diffusion.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4768825). *Pacific-Basin Finance Journal*, JCR SSCI Q1 (IF 4.6), Available at SSRN 4768825.
   +  Energy Derivatives Pricing under Markov Regime-Switching Double Exponential Jump Diffusion Model. Working in progress.
 
 - *Conference Paper*
