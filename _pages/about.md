@@ -18,8 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About Me
-- Personal Introducion
-- Waiting......
+- He Jie-Cao holds a Ph.D. in Finance (Financial Engineering) from the College of Commerce at National Chengchi University in Taiwan. He is recognized as a high-level talent in Ningbo and currently serves as a lecturer in the Department of Finance and Financial Engineering at the School of Business, Zhejiang Wanli University. His research areas mainly include the pricing of interest rate and exchange rate derivatives, interest rate models, stochastic processes, quantitative trading, machine learning, natural language processing (NLP), bank risk management, and audit quality analysis. During his doctoral studies, he participated in six provincial and ministerial projects and four horizontal projects. He has published three SSCI Q1 papers in journals such as *Financial Innovation* (IF 8.4), *International Review of Financial Analysis* (IF 8.2), and *Pacific-Basin Finance Journal* (IF 4.6). He primarily teaches courses such as Finance, Structured Products, Financial Data Analysis and Simulation, Derivatives, and Financial Engineering and Innovation.
 
 # 📖 Educations
 - *2012.09 - 2016.07*, Feng Chia University – Department of Finance – Bachelor
